@@ -126,6 +126,9 @@ The ETL pipeline includes:
 ```
 Retail-Sales-End-to-End-Project/
 │
+├── data/
+│   └── retail_sale.xlsx
+│ 
 ├── python/
 │   └── etl.py
 │
